@@ -3,8 +3,9 @@
 
 ## Precision-Recall Curve
 
-testing
-
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
 
 
