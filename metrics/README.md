@@ -3,10 +3,7 @@
 
 ## Precision-Recall Curve
 
-
-SE = $$\frac{\sigma}{\sqrt{n}}$$
-
-
+$$\sigma$$
 
 
 
