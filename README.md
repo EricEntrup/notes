@@ -1,3 +1,3 @@
 # Table of Contents
-- [**Metrics**](../metrics)
-- [**Git**](../git)
+- [**Metrics**](https://github.com/EricEntrup/metrics)
+- [**Git**](https://github.com/EricEntrup/git/)
